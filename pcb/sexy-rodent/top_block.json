@@ -1,0 +1,113 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "a48123af-5897-4ccf-b2a6-126b8069075e",
+    "net_classes": {
+        "762d94af-ebf9-487f-8459-589b72cb6c3e": {
+            "name": "Digital"
+        },
+        "8876c9d4-a55d-49ea-9272-2f5228ec55f5": {
+            "name": "Analog"
+        },
+        "a48123af-5897-4ccf-b2a6-126b8069075e": {
+            "name": "default"
+        },
+        "db4ec8e0-0bcd-45cc-9312-1d188e5b815f": {
+            "name": "Power"
+        }
+    },
+    "nets": {
+        "4e2b1a8e-7822-43b9-993c-f850daedd9d9": {
+            "is_port": false,
+            "is_power": true,
+            "name": "+Rt",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "5250e92b-1451-4fde-b6d4-cb9959f3c147": {
+            "is_port": false,
+            "is_power": true,
+            "name": "GND",
+            "net_class": "a48123af-5897-4ccf-b2a6-126b8069075e",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "8498ea5d-f77d-4120-b7fe-462820666f58": {
+            "is_port": false,
+            "is_power": true,
+            "name": "+REG",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "86e48f21-266e-41f0-be8c-9f13912bd3e8": {
+            "is_port": false,
+            "is_power": true,
+            "name": "+",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "936f0572-b515-4dd7-9524-bc4c5b0d957c": {
+            "is_port": false,
+            "is_power": true,
+            "name": "-REG",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "b15d3b93-05de-4056-bab2-e8581e0da50c": {
+            "is_port": false,
+            "is_power": true,
+            "name": "+REG*2",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        },
+        "e3d054cc-677e-4dac-8ee3-76f67b09fca2": {
+            "is_port": false,
+            "is_power": true,
+            "name": "+5V",
+            "net_class": "db4ec8e0-0bcd-45cc-9312-1d188e5b815f",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "antenna"
+        }
+    },
+    "project_meta": {
+        "author": "yann",
+        "date": "2024-08-18",
+        "project_name": "sexy-rodent",
+        "project_title": "sexy-rodent",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "7dd99e06-2a2d-44db-b3e1-39a57ea92d62"
+}
