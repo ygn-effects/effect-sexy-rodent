@@ -95,7 +95,7 @@
         "layers": {
             "-1": {
                 "enabled": true,
-                "filename": "g1",
+                "filename": ".g2l",
                 "layer": -1
             },
             "-100": {
@@ -120,7 +120,7 @@
             },
             "-2": {
                 "enabled": true,
-                "filename": "g2",
+                "filename": ".g3l",
                 "layer": -2
             },
             "0": {
@@ -149,8 +149,8 @@
                 "layer": 30
             }
         },
-        "output_directory": "/home/yann/Desktop/temp",
-        "prefix": "sexy-rodent-board",
+        "output_directory": "/home/yann/_ygn/effect-sexy-rodent/pcb/gerber",
+        "prefix": "sexy-rodent",
         "zip_output": true
     },
     "grid_settings": {
