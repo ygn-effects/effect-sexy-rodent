@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2025-09-09 20:08:19.213864)
+(Output Time:2025-09-13 10:17:09.749585)
 (Begin preamble)
 G17 G90
 G21
@@ -2935,11 +2935,11 @@ G0 Z1.000
 (endmill-2mm001)
 (Begin toolchange)
 ( M6 T31 )
-M3 S14000
+M3 S15000
 (Finish operation: endmill-2mm001)
 (Begin operation: 2mm endmill)
 (Path: 2mm endmill)
-(Profile)
+(2mm endmill)
 (Compensated Tool Path. Diameter: 2.0)
 G0 Z5.000
 G0 X14.120 Y-8.880
