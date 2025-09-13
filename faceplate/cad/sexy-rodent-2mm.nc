@@ -8,6 +8,13 @@ G21
 (Path: Fixture)
 G54
 (Finish operation: Fixture)
+(Begin operation: endmill-2mm001)
+(Path: endmill-2mm001)
+(endmill-2mm001)
+(Begin toolchange)
+( M6 T31 )
+M3 S15000
+(Finish operation: endmill-2mm001)
 (Begin operation: 2mm endmill)
 (Path: 2mm endmill)
 (2mm endmill)
