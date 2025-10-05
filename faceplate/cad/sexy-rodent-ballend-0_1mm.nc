@@ -1,13 +1,9 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2025-09-03 20:47:30.864008)
+(Output Time:2025-10-05 21:57:38.867117)
 (Begin preamble)
 G17 G90
 G21
-(Begin operation: Fixture)
-(Path: Fixture)
-G54
-(Finish operation: Fixture)
 (Begin operation: ballend-015mm003)
 (Path: ballend-015mm003)
 (ballend-015mm003)
@@ -15,6 +11,10 @@ G54
 ( M6 T27 )
 M3 S16000
 (Finish operation: ballend-015mm003)
+(Begin operation: Fixture)
+(Path: Fixture)
+G54
+(Finish operation: Fixture)
 (Begin operation: 0.1mm v-bit)
 (Path: 0.1mm v-bit)
 (0.1mm v-bit)

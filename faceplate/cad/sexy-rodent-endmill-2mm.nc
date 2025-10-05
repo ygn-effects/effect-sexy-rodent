@@ -1,13 +1,9 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2025-09-03 20:47:30.864008)
+(Output Time:2025-10-05 21:57:41.675153)
 (Begin preamble)
 G17 G90
 G21
-(Begin operation: Fixture)
-(Path: Fixture)
-G54
-(Finish operation: Fixture)
 (Begin operation: endmill-2mm001)
 (Path: endmill-2mm001)
 (endmill-2mm001)
@@ -15,6 +11,10 @@ G54
 ( M6 T31 )
 M3 S15000
 (Finish operation: endmill-2mm001)
+(Begin operation: Fixture)
+(Path: Fixture)
+G54
+(Finish operation: Fixture)
 (Begin operation: 2mm endmill)
 (Path: 2mm endmill)
 (2mm endmill)
