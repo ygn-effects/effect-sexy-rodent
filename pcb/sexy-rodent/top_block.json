@@ -17,7 +17,7 @@
             "sort_column": "refdes"
         },
         "orderable_MPNs": {},
-        "output_filename": "/home/yann/_ygn/effect-sexy-rodent/pcb/bom/sexy-rodent.csv"
+        "output_filename": "C:\\_Dev\\_ygn\\effect-sexy-rodent\\pcb\\bom\\sexy-rodent.csv"
     },
     "buses": {},
     "components": {

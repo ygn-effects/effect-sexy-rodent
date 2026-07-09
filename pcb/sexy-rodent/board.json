@@ -1917,7 +1917,7 @@
                     "g": 0.0,
                     "r": 1.0
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "-100": {
@@ -1926,7 +1926,7 @@
                     "g": 0.07382550090551376,
                     "r": 0.0
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "-110": {
@@ -1980,7 +1980,7 @@
                     "g": 0.0,
                     "r": 0.5600000023841858
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "0": {
@@ -1989,7 +1989,7 @@
                     "g": 0.0,
                     "r": 1.0
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "10": {
@@ -2007,7 +2007,7 @@
                     "g": 0.0,
                     "r": 0.0
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "10000": {
@@ -2034,7 +2034,7 @@
                     "g": 0.8657718300819397,
                     "r": 1.0
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "30": {
@@ -2043,7 +2043,7 @@
                     "g": 0.5031111240386963,
                     "r": 0.5333333611488342
                 },
-                "enabled": true,
+                "enabled": false,
                 "mode": "outline"
             },
             "40": {
@@ -2065,9 +2065,9 @@
                 "mode": "outline"
             }
         },
-        "min_line_width": 0,
-        "mirror": false,
-        "output_filename": "/home/yann/Desktop/test.pdf",
+        "min_line_width": 100000,
+        "mirror": true,
+        "output_filename": "C:\\_Dev\\_ygn\\effect-sexy-rodent\\pcb\\assembly-doc\\sexy-rodent-silkscreen-bottom.pdf",
         "reverse_layers": false,
         "set_holes_size": false
     },
